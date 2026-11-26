@@ -1,0 +1,26 @@
+﻿PhishGuard India – Data Privacy Rules
+1. Purpose
+PhishGuard India is designed to detect phishing URLs and suspicious messages while protecting user privacy.
+2. No Personal Chat Collection
+* We will never collect personal SMS or WhatsApp chat histories.
+* Users will manually paste only the suspicious URL or message they want to analyze.
+* We will not access users' contacts, gallery, SMS inbox, or WhatsApp accounts.
+3. Data Collection
+* The application will process only the URL or message submitted by the user.
+* We will not request unnecessary personal information such as phone numbers, passwords, OTPs, or bank account details.
+4. Data Storage
+* Only necessary scan information will be stored if scan history is enabled.
+* Sensitive information should not be stored.
+* Access to stored records will be restricted.
+5. Data Security
+* The application will use secure data-handling practices.
+* Database access will be restricted.
+* User-submitted data will not be publicly exposed.
+6. Data Sharing
+* User-submitted messages and URLs will not be sold or shared with third parties.
+* Public datasets will be used for model training and testing.
+7. User Control
+* Users will voluntarily submit information for analysis.
+* Users should be informed about what data is stored and why.
+8. Conclusion
+PhishGuard India aims to provide cybersecurity protection without compromising user privacy. User privacy and data security will remain important throughout development.
